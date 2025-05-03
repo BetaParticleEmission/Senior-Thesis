@@ -9,7 +9,7 @@
 
 ## 📖 Abstract
 
-This senior thesis presents a comprehensive workflow for analyzing X-ray spectroscopy data to detmermine if characteristic x-rays are generated from Ne X collision with Faraday Cup surface. Using a combination of **R** for data visualization and wrangling and **Microsoft Excel** for data collection, the project demonstrates rigorous data cleaning, transformation, visualization, and analysis. The NIST x-ray emission database is used to find if the energies differences between orbitals match that found in the plots. 
+This senior thesis presents a comprehensive workflow for analyzing X-ray spectroscopy data to detmermine if characteristic x-rays are generated from Ne X collisions with Faraday Cup surfaces. Using a combination of **R** for data visualization and wrangling and **Microsoft Excel** for data collection, the project demonstrates rigorous data cleaning, transformation, visualization, and analysis. The NIST x-ray emission database is used to find if the energy differences between orbitals match that found in the plots produced from the experiment. 
 
 ---
 
