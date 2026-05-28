@@ -1,4 +1,4 @@
-# Senior Thesis: X-Ray Spectroscopy Analysis
+# Ne-X collision with Stainless Steel Surface
 
 **Author:** Isaac Norris  
 **Degree:** B.S. Physics, Clemson University  
